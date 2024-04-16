@@ -19,10 +19,10 @@ namespace BulkyWebRazon__Temp.Pages.Categories
         }
 
         public IActionResult OnPost()
-        {
-            _DB.Categories.Add(Category);
-            _DB.SaveChanges();
-
+        {                       
+			_DB.Categories.Add(Category);
+		    _DB.SaveChanges();
+			
             return RedirectToPage("Index");
         }
     }

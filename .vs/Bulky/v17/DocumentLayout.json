@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|c:\\users\\usuario\\desktop\\proyecto\\yt proyect\\bulky\\bulkywebrazon _temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD684AF8-2CB4-47C3-8262-EEC6179E1037}|BulkyWebRazon _Temp\\BulkyWebRazon _Temp.csproj|solutionrelative:bulkywebrazon _temp\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,65 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:04:00.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml",
-              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Categories\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T13:02:24.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T12:57:30.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml.cs",
-              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T12:44:59.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Proyecto\\YT Proyect\\Bulky\\BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml",
-              "RelativeToolTip": "BulkyWebRazon _Temp\\Pages\\Categories\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T12:42:50.91Z",
+              "WhenOpened": "2024-04-16T15:46:47.058Z",
               "EditorCaption": ""
             }
           ]
