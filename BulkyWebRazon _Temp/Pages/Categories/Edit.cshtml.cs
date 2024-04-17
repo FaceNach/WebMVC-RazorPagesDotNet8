@@ -37,7 +37,9 @@ namespace BulkyWebRazon__Temp.Pages.Categories
             {
 				_DB.Categories.Update(Category);
 				_DB.SaveChanges();
-				return RedirectToPage("Index");
+                TempData["success"] = "Category updated succesfully";
+
+                return RedirectToPage("Index");
 			}
 
 			return Page();

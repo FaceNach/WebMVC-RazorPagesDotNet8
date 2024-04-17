@@ -42,7 +42,9 @@ namespace BulkyWebRazon__Temp.Pages.Categories
 				_DB.Categories.Remove(UpdatedCategory);
 				_DB.SaveChanges();
 
-				return RedirectToPage("Index");
+                TempData["success"] = "Category deleted succesfully";
+
+                return RedirectToPage("Index");
 			}
 
             return Page();
